@@ -3,7 +3,7 @@ A hubot script to leave messages for people
 
 Port from https://github.com/github/hubot-scripts/src/scripts/ambush.coffee
 
-See [`src/hubot-ambush.coffee`](src/hubot-ambush.coffee) for full documentation.
+See [`src/ambush.coffee`](src/ambush.coffee) for full documentation.
 
 ## Installation
 
