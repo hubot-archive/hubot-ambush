@@ -1,10 +1,9 @@
 # hubot-ambush
+A hubot script to leave messages for people
 
 Port from https://github.com/github/hubot-scripts/src/scripts/ambush.coffee
 
-A hubot script to leave messages for people
-
-See [`src/redis-ambush.coffee`](src/redis-ambush.coffee) for full documentation.
+See [`src/hubot-ambush.coffee`](src/hubot-ambush.coffee) for full documentation.
 
 ## Installation
 
